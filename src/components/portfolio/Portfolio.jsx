@@ -73,7 +73,7 @@ const Portfolio = () => {
                   href={facebook}
                   className="btn"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   Facebook
                 </a>
@@ -81,7 +81,7 @@ const Portfolio = () => {
                   href={demo}
                   className="btn btn-primary"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                 >
                   Live Demo
                 </a>
