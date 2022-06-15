@@ -26,19 +26,17 @@ const About = () => {
             <article className="about_card">
               <FaUsers classname="about_icon" />
               <h5>Clients</h5>
-              <small>1000+ Worldwide</small>
+              <small>5+ Worldwide</small>
             </article>
             <article className="about_card">
               <VscFolderLibrary classname="about_icon" />
               <h5>Projects</h5>
-              <small>1500+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero sequi
-            repellat voluptatem expedita iusto perspiciatis culpa suscipit
-            sapiente temporibus voluptatibus eum magnam quos aliquid, cumque
-            recusandae ab nostrum nam odio.
+            I help Real Estate BUSINESSES/YouTubers get more leads and
+            conversions and increase audience retention through VIDEO EDITING.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

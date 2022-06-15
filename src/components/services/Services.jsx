@@ -9,32 +9,28 @@ const Services = () => {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>Real Estate Editing</h3>
+            <h3>Video Ads</h3>
           </div>
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Facebook Ads</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Youtube Ads</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Instagram Ads</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>TikTok</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>LinkedIn Ads</p>
             </li>
           </ul>
         </article>
@@ -42,32 +38,28 @@ const Services = () => {
 
         <article className="service">
           <div className="service_head">
-            <h3>YouTube Editing</h3>
+            <h3>Video Content Editing</h3>
           </div>
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Facebook Content</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Youtube Content</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>Instagram Content</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>TikTok</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet elit.</p>
+              <p>LinkedIn Content</p>
             </li>
           </ul>
         </article>
